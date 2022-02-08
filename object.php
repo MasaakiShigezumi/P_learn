@@ -15,4 +15,11 @@
   $tc = new Person;
   $tc->name('Crapper');
   echo "Look out below {$tc->name}\n";
+
+  if (is_object($x)) {
+    // function ...
+  }
+  if (is_resorce($x)) {
+
+  }
 ?>
